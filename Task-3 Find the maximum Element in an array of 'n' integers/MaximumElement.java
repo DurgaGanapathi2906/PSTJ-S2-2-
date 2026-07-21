@@ -13,5 +13,4 @@ public class MaximumElement {
 }
 
 //Output
-60
-Found at index 5
+Maximum element = 91
