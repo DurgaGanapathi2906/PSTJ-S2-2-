@@ -23,3 +23,4 @@ public class BinarySearch {
 
 //Output
 60
+Found at index 5
