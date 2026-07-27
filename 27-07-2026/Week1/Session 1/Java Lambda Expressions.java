@@ -55,16 +55,16 @@ public class Solution {
 
 
 //Output:
-Compiler Message
-Success
-Input (stdin)
+Compiler Message: Success
+Input (stdin):
 5
 1 4
 2 5
 3 898
 1 3
 2 12
-Expected Output
+    
+Expected Output:
 EVEN
 PRIME
 PALINDROME
